@@ -1,0 +1,14 @@
+#regLabel2{
+        -fx-font: 24 arial;
+        -fx-text-fill:white;
+}
+
+#regLabel1{
+        -fx-font: 24 arial;
+        -fx-text-fill:white;
+
+}
+#nameTF{
+        -fx-background-image: url("../Images/Graphics/white-wood-1080.jpg");
+
+}

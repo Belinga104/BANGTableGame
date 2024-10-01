@@ -1,0 +1,26 @@
+#turnoLbl{
+        -fx-font-size: 100;
+        -fx-font-color: blue;
+}
+
+#centerPane{
+        -fx-background-image: url("../Images/Graphics/white-wood-1080.jpg");
+
+}
+
+#statsContainer{
+        -fx-background-image: url("../Images/Graphics/white-wood-1080.jpg");
+
+}
+#playerCardsContainer{
+        -fx-background-image: url("../Images/Graphics/white-wood-1080.jpg");
+
+}
+
+#skipTurnPane{
+
+    -fx-background-color:#F4A460;
+    -fx-font-size: 20;
+
+}
+
